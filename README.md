@@ -3,4 +3,4 @@
 Follow me on my journey to solve ~~100~~ ~~200~~ 300 leetcode questions
 > All Solutions are written in Python
 ## Current Progress
-![preview img](/preview1.png)
+![preview img](/preview.png)
